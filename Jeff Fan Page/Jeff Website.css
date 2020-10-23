@@ -1,0 +1,73 @@
+
+ body {
+    font-family: Verdana;
+    color: white;
+    background-color: black;
+    margin: 20px;
+  }
+  h1 {
+    font-family: Verdana;
+    color: orange;
+    font-size: 40px;
+  }
+  td {
+    text-align: center;
+    padding: 50px;
+  } 
+  p {
+    color: orange;
+  }
+  .center{
+    text-align: center;
+  }
+  .left{
+    text-align: left;
+  }
+  .right{
+    text-align: right;
+  }
+  .button_red{
+    padding: 20px 25px;
+    background-color: red;
+    border: red;
+    font-family: Verdana;
+    text-align: center;
+    cursor: pointer;
+    font-size: 40px;
+    border-radius: 10px;
+  }
+  .button_white{
+    padding: 10px 15px;
+    background-color: white;
+    border: white;
+    font-family: Verdana;
+    text-align: center;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 10px;
+  }
+  .goal {
+    padding-left: 20px;
+  }
+  .button_red:hover{
+    background-color: darkred;
+  }
+  .button_white:hover{
+    background-color: grey;
+  }
+  table.directory {
+    margin: auto;
+    height: 40%;
+    width: 75%;
+  }
+  table.pictures {
+    margin: auto;
+  }
+  table.faq {
+    margin-bottom: 10px;
+    height: auto;
+    width: 100%;
+    min-width: 1000px;
+  }
+ 
+ 
